@@ -1,7 +1,7 @@
 # Building a REST API with Spring Boot
 
 ## Introduction
-This repository contains the source code for a RESTful API built using Spring Boot. The project is part of a Spring Academy course that guides developers through the process of creating a fully functional, secure, and well-tested API for a Family Cash Card application.
+This repository contains the source code for a RESTful API built using Spring Boot. The project is part of a Spring Academy course ([click here for more info](https://spring.academy/courses/building-a-rest-api-with-spring-boot)) that guides developers through the process of creating a fully functional, secure, and well-tested API for a Family Cash Card application.
 
 ## About the Project
 
